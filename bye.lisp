@@ -1,0 +1,2 @@
+(defun bye ()
+  (print "Bye."))
